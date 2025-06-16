@@ -1,7 +1,7 @@
 # RVCE 6th Sem Compiler Design Programs
 
 <p>RV College of Engineering, Bengaluru</p>
-<p><strong><span style="font-family: serif; font-size: 28px;">Compiler Design(18CS63)</span></strong></p>
+<p><strong><span style="font-family: serif; font-size: 28px;">Compiler Design</span></strong></p>
 <p>Lab Programs for CIE and SEE </p>
 <p><br></p>
 <ol>
